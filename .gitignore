@@ -1,0 +1,7 @@
+# NUNCA subir llaves de firma ni contraseñas a este repositorio público
+Llaves/
+*.jks
+*.keystore
+*.p12
+*.pem
+keystore.properties
